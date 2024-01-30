@@ -1,0 +1,650 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+    box-sizing: border-box; 
+}
+.logo
+{
+    width: 130px;
+    height: 50px;
+    object-fit: cover;
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+    /* object-fit: cover; */
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 65px;
+}
+.list
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    
+}
+.list li
+{
+    list-style: none;
+    padding: 15px;
+    /* font-size: 21px; */
+}
+
+.list a
+{
+   text-decoration: none;
+   color: black;
+   font-size: 21px;
+   padding: 10px;
+}
+.list span
+{
+ /* width: 100px; */
+  background-color: #4E0FEA;
+  color: white;
+  border-radius: 9px;
+  padding: 12px 35px;
+  font-size: 17px
+  
+}
+.heading
+{
+    width: 650px;
+    height: 400px;
+}
+.heading h1
+{
+    font-size: 60px;
+    font-weight:bold ;
+}
+.heading p
+{
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 15px;
+}
+.anchor
+{
+    margin-top: 15px;
+}
+.anchor a
+{
+    text-decoration: none;
+    color: white;
+    padding: 8px 10px;
+    background-color: #4E0FEA;
+    /* margin-top: 30px; */
+    border-radius: 7px;
+    font-size: 23px;
+    font-weight: bold;
+}
+.secondimage
+{
+    width: 500px;
+    height: 450px;
+
+}
+.secondimage img{
+    width: 100%;
+    height: 100%;
+}
+.head
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 55px;
+    padding: 0 65px;
+}
+.many
+{
+    text-align: center;
+    margin-top: 75px;
+}
+.third
+ {
+  width: 130px;
+  height: auto;
+  margin-left: 30px;
+ }
+ .third img
+ {
+  width: 100%;
+  height: auto;
+
+ }
+ .third a
+ {
+  text-decoration: none;
+ }
+ .fourth
+ {
+  width: 190px;
+  height: auto;
+ }
+ .fourth img
+ {
+  width: 100%;
+  height: auto;
+  padding-top: 40px;
+ }
+ .fourth a{
+  text-decoration: none;
+ }
+ .fivth
+ {
+  width: 190px;
+  height: 100%;
+  padding-top: 35px;
+ }
+ .fivth img
+ {
+  width: 100%;
+  height: auto; padding-top: 35px;
+ }
+ .fivth a
+ {
+  text-decoration: none;
+ }
+
+ .sixth
+ {
+  padding-top: 65px;
+ }
+ .seven
+ {
+  width: 200px;
+  height: 100%;
+  padding-top: 30px;
+ }
+ .seven img
+ {
+  width: 100%;
+  height: auto;
+  padding-top: 30px;
+ }
+ .kuch
+ {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  margin: 25px ;
+  padding: 0 45px;
+  
+ }
+ .meet
+ {
+    text-align: center;
+    font-size: 33px;
+    font-weight: bold;
+    margin-top: 30px;
+    opacity: 0.7;
+ }
+
+ .nine
+ {
+  width: 315px;
+  height: 480px;
+  border-radius: 25px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 24px;
+margin-top: 70px;
+ }
+ .img reletive
+ {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+ }
+ .img reletive img
+ {
+  width: 100%;
+  height: auto;
+ }
+ p{
+  line-height: 19px;
+  margin-top: 29px;
+  text-align: start;
+  color: #747486;
+  font-size: 16px;
+ }
+ .color
+ {
+  border-radius: 15px;
+  background-color: #747486;
+  color: white;
+  padding: 5px 7px;
+  line-height: 50px;
+  margin: 8px 4px;
+  
+ }
+
+.ten
+{
+  width: 290px;
+  height: 480px;
+  border: 1px solid black;
+  border-radius: 25px;
+  padding: 18px;
+  text-align: center;
+  margin-top: 60px;
+
+}
+.image
+{
+  width: 150px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 26%;
+}
+.image img{
+  width: 100%;
+  height: auto;
+  
+}
+.ten h2{
+  text-align: center;
+  padding-top: 98px;
+}
+.ekbaar
+{
+  margin-left: 28px;
+  line-height: 45px;
+  color: #747486;
+}
+.color2
+{
+  border-radius: 15px;
+  background-color: #747486;
+  color: white;
+  padding: 5px 7px;
+  line-height: 50px;
+  margin: 8px 7px; 
+}
+.ele
+{
+  width: 290px;
+  height: 480px;
+  border-radius: 25px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+    margin-top: 60px;
+}
+.boxdecor
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 0 90px;
+}
+.our
+{
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/298/1001/271/galaxy-space-stars-planet-wallpaper-preview.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  width: 100%;
+  height: 500px;
+  margin-top: 90px;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  padding-top: 30px;
+  padding: 25px;
+}
+
+.onebox
+{
+  width: 340px;
+  height: 300px;
+  border-radius: 25px;
+  background:black;
+  opacity: 0.6;
+  padding: 17px;
+  text-align: center;
+}
+.imagetion
+{
+  width: 130px;
+  height: 110px;
+  text-align: center;
+  margin-left: 50px;
+}
+.imagetion img{
+  width: 100%;
+  height: 100%;
+  margin-left: 40px;
+}
+.onebox h1{
+  font-size: 26px;
+  margin-top: 15px;
+}
+.onebox p{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+.back
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+  padding: 10px 30px;
+}
+
+.twe
+{
+  font-size: 30px;
+  color:#2b2a2f;
+  text-align: center;
+  /* margin-top: 30px; */
+  padding-top: 30px;
+}
+.fourt{
+  width: 80px;
+  height: 70px;
+}
+.fourt img
+{
+  width: 100%;
+  height: 100%;
+}
+.thirt
+{
+  width: 365px;
+  height: 200px;
+  margin: 30px;
+}
+.vish
+{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 30px;
+  background-color: #f1f1f1;
+  ;
+}
+.thirt p
+{
+  font-size: 20px;
+  color: #2b2a2f;
+  
+}
+.most
+{
+  background-color: #f1f1f1;
+}
+.hire
+{
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 30px;
+}
+.project
+{
+  width: 600px;
+  height: 500px;
+}
+.project img
+{
+  width: 100%;
+  height: 100%;
+}
+.box
+{
+  width: 360px;
+  height: 320px;
+  border-radius: 25px;
+  background:rgba(0,0,0,.62);
+  padding: 17px;
+  text-align: center;
+}
+.imagetion
+{
+  width: 130px;
+  height: 110px;
+  text-align: center;
+  margin-left: 45px;
+}
+.imagetion img{
+  width: 100%;
+  height: 100%;
+  margin-left: 45px;
+}
+.box h1{
+  font-size: 32px;
+}
+.box p{
+  color: white;
+  font-size: 22px;
+  line-height: 25px;
+}
+.ekor
+{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+.twe
+{
+  font-size: 30px;
+  color:#2b2a2f;
+  text-align: center;
+}
+.fourt{
+  width: 80px;
+  height: 70px;
+}
+.fourt img
+{
+  width: 100%;
+  height: 100%;
+}
+.thirt
+{
+  width: 365px;
+  height: 200px;
+  margin: 30px;
+}
+.vish
+{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 30px;
+  background-color: #f1f1f1;
+  ;
+}
+ .one 
+ {
+  color: #4E0FEA;
+  border: #4E0FEA solid 9px;
+  width: 18px;
+  border-radius: 50%;
+  padding: 15px 40px;
+  /* height: 100px; */
+
+  font-size: 25px;
+  margin: 19px;
+ }
+.theright
+{
+  width: 350px;
+  height: 200px;
+}
+.mainone
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.flexbox
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 65px;
+}
+.join
+{
+  background-color: #5f25f0;
+  height: 250px;
+  text-align: center;
+  color: white;
+  padding-top: 25px;
+  line-height: 67px;
+}
+#ankor
+{
+  border: 2px solid white;
+}
+.base
+{
+  width: 180px;
+  height: 130px;
+  margin-left: 150PX;
+}
+.base img 
+{
+  width: 100%;
+  height: 100%;
+  /* color: white; */
+}
+footer
+{
+  background-color: #4E0FEA;
+  height: 290px;
+  
+}
+.linebar
+{
+  width: 85%;
+  margin-left: 130px;
+}
+.anu
+{
+  color: white;
+  font-size: 23px;
+}
+.font{
+  
+  text-align: center;
+  padding: 15px;
+  
+}
+.font p{
+  font-size: 13px;
+  text-align: justify;
+  color: #f1f1f1;
+}
+.num li
+{
+  list-style: none;
+}
+.num a
+{
+  text-decoration: none;
+  color: #f1f1f1
+}
+.last
+{
+  display: flex;
+  /* align-items: center; */
+  justify-content:space-between;
+  padding: 0 40px;
+}
+.num{
+  display: flex;
+  align-items: center;
+  justify-content:space-around;
+  padding: 20px  80px;
+}
+ 
+                               /* SERVICE PAGE CSS */
+     .servics
+     {
+      text-align: center;
+      margin-top: 80px;
+     }                          
+     .rare
+     {
+      height: 80px;
+      width: 80px;
+      border-radius: 50%;
+      border: 3px solid #eeeeee;
+      position: absolute;
+      right: 130px;
+      bottom: 210px;
+      background-color: white;
+     }
+     .rare img
+     {
+      height: 100%;
+      width: 100%;
+     }
+     .mostservice
+     {
+      width: 350px;
+      text-align: center;
+      border:3px solid #eeeeee ;
+      padding: 40px 20px 20px 20px;
+      border-radius: 15px;
+      position: relative;
+      margin-top: 80px;
+    
+     }
+     .mainrare
+     {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+     }
+     .rare dev
+     {
+      position: absolute;
+      bottom: 200px;
+     }
+     .bigimage
+     {
+      height: 825px;
+      width: 100%;
+      background-color: #6032ff;
+      margin-top: 10%;
+    
+     }
+     .bigimage img
+     {
+      height: 100%;
+      width: auto;
+      padding: 40px;
+      background-color: #6032ff;
+     margin-left: 150px;
+     }
+     .mainprogram
+     {
+      text-align: center;
+      line-height: 50px;
+      padding-top: 10px;
+  
+     }
+     #project
+     {
+      font-weight: bold;
+      text-align: center;
+      color: black;
+     }
