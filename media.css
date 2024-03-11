@@ -1,0 +1,220 @@
+@media screen and (min-width:320px) and (max-width:630px){
+    
+
+    header
+    {
+        display: none;
+    }
+    .boxdecor
+    {
+        flex-direction: column;
+    }
+    .ekor
+    {
+        flex-direction: column;
+    }
+    .newbox
+    {
+        height: unset;
+    }
+    .vish
+    {
+        flex-direction: column;
+    }
+    .mainone
+    {
+        flex-direction: column;
+    }
+    .num
+    {
+        flex-direction: column;
+    }
+    .right
+    {
+        flex-direction: column;
+    }
+    .pic
+    {
+        height: unset;
+        width: unset;
+    }
+    .last
+    {
+        flex-direction: column;
+    }
+    .heading
+    {
+        width: unset;
+        height: unset;
+        /* font-size: 50px; */
+    }
+    .heading h1
+    {
+        font-size: 37px;
+        text-align: center;
+    }
+    .second
+    {
+        margin: unset;
+    }
+    .onebox
+    {
+        width: 315px;
+        height: unset;
+        margin: 10px;
+    }
+    .kuch
+    {
+        flex-direction: column;
+        margin-left: 140px;
+    }
+    .sixth
+    {
+        margin-right: 296px;
+    }
+    .fourt
+    {
+        margin-right: 32px;
+    }
+    .hireflex
+    {
+        flex-direction: column;
+    }
+    .base img
+    {
+        margin-top: 37px;
+        /* margin-left: 50px; */
+    }
+    .font 
+    {
+        margin-top: 37px;
+        margin-left: 52px;
+    }
+    .joinus
+    {
+        width: unset;
+        height: unset;
+    }
+    .deve{
+        padding: 30px;
+        line-height: 80px;
+    }
+    .join2{
+        font-size: 14px;
+    }
+    .linebar
+    {
+        width: unset;
+        margin-left: 56px;
+    }
+    .base{
+        margin-left: 50px;
+    }
+    .imageclass
+    {
+        width: unset;
+        height: unset;
+    }
+    .tohire h1
+    {
+        font-size: 28px;
+        line-height: unset;
+    }
+    .twe
+    {
+        font-size: 13px;
+    }
+    .newbox h1
+    {
+        font-size: 20px;
+    }
+    .eight
+    {
+        font-size: 25px;
+    }
+    .thirt
+    {
+        width: unset;
+        height: unset;
+        margin-left: 53px;
+    }
+    .thirt h1
+    {
+        font-size:19px;
+    }
+    .fourt img
+    {
+        margin-left: 55px;
+    }
+    .ayush a
+    {
+        margin-left: 78px;
+    }
+    .theright
+    {
+        text-align: center;
+    }
+    .theright p
+    {
+        text-align: center;
+    }
+    .onebox p
+    {
+        font-size: 18px;
+    }
+
+}
+@media screen and (min-width:630px) and (max-width:860px)
+{
+    .first1
+    {
+        display: none;
+    }
+    .kuch
+    {
+        flex-direction: column;
+        margin-left: 293px;
+    }
+    .sixth
+    {
+        margin-right: 200px;
+    }
+    .eight 
+    {
+        font-size: 33px;
+    }
+    .boxdecor
+    {
+        flex-direction: column;
+    }
+    .ekor
+    {
+        flex-direction: column;
+    }
+    .newbox
+    {
+        height: unset;
+    }
+    .vish
+    {
+        flex-direction: column;
+    }
+    .hireflex
+    {
+        flex-direction: column;
+    }
+    .last
+    {
+        flex-direction: column;
+    }
+    .onebox
+    {
+        /* width: 315px; */
+        height: unset;
+        margin: 10px;
+    }
+}
+@media screen and (min-width:860px) and (max-width:1024px)
+{
+
+}
